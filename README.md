@@ -14,7 +14,7 @@
 
     `$ python <filename.py>` or `$ python3 <filename.py>`
 
-## Menu
+## cheatsheet Menu
 
  - [Create and execute a program](python.md#Create-and-execute-a-program)
  - [Basic Datatypes](python.md#Basic-Datatypes)
@@ -30,4 +30,12 @@
  --[While loop](python.md#While-loop)
  --[For Loop](python.md#For-Loop)
 - [Function](python.md#Function-definition)
+
+## Top Books
+
+## Top Free Course With Certificates 
+
+## Top Projects Idea 
+
+
  
