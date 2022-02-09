@@ -1,4 +1,4 @@
-[Main Website](https://naemazam.github.io/CheatSheets-Hub/)
+[Main Website](https://cheatsheetshub.github.io/)
 # Python
 
 * Python is an interpreted, high-level and general-purpose, dynamically typed programming language
